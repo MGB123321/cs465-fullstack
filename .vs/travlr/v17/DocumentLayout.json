@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\mayso\\travlr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app_server\\controllers\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app_server\\routes\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app_server\\routes\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\app_server\\controllers\\travel.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\travel.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayso\\travlr\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -14,11 +46,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "layout.hbs",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app_server\\views\\layouts\\layout.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\layouts\\layout.hbs",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app_server\\views\\layouts\\layout.hbs",
+              "RelativeToolTip": "app_server\\views\\layouts\\layout.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-22T22:35:18.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "footer.hbs",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app_server\\views\\partials\\footer.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\partials\\footer.hbs",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app_server\\views\\partials\\footer.hbs",
+              "RelativeToolTip": "app_server\\views\\partials\\footer.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-22T22:22:37.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "travel.hbs",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app_server\\views\\travel.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app_server\\views\\travel.hbs",
+              "RelativeToolTip": "app_server\\views\\travel.hbs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-22T22:16:22.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-22T22:11:49.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app_server\\routes\\users.js",
+              "RelativeDocumentMoniker": "app_server\\routes\\users.js",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app_server\\routes\\users.js",
+              "RelativeToolTip": "app_server\\routes\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-22T22:09:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "travel.js",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app_server\\controllers\\travel.js",
+              "RelativeDocumentMoniker": "app_server\\controllers\\travel.js",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app_server\\controllers\\travel.js",
+              "RelativeToolTip": "app_server\\controllers\\travel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-22T22:07:34.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app_server\\routes\\index.js",
+              "RelativeDocumentMoniker": "app_server\\routes\\index.js",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app_server\\routes\\index.js",
+              "RelativeToolTip": "app_server\\routes\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-22T22:05:00.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\mayso\\travlr\\app_server\\controllers\\main.js",
+              "RelativeDocumentMoniker": "app_server\\controllers\\main.js",
+              "ToolTip": "C:\\Users\\mayso\\travlr\\app_server\\controllers\\main.js",
+              "RelativeToolTip": "app_server\\controllers\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-22T22:02:37.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\mayso\\travlr\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
